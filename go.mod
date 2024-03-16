@@ -1,4 +1,4 @@
-module github.com/xtls/go
+module github.com/qxray-server/go
 
 go 1.19
 
